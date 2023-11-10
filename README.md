@@ -1,4 +1,4 @@
-# T3 Stack 入門！完全版！動かして学ぶ、実践的アプリ構築マスターガイド
+# 【完全版】T3 Stack入門！動かして学ぶ、実践的アプリ構築マスターガイド
 
 https://zenn.dev/hathle/articles/t3-stack-introduction
 
